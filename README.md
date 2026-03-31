@@ -4,8 +4,8 @@
 
 Honeycomb Round is a Latin (ID: `*Latn`) Display font designed by
 [Katrina Sutton](https://behance.net/katrinasutton). Its design is based on
-on the actualy honey's nest structure: the hexagonal honeycomb. This version
-has rounded edges for a softer tone.
+on the actualy honeys' hive structure: the hexagonal honeycomb. This version
+has rounded edges for a softer and friendlier display tone.
 
 This font is ideal for poster title, poster text, poster footer text,
 movie title, movie notice headings, and movie notice text.
